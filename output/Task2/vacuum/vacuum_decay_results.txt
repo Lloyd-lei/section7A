@@ -1,0 +1,9 @@
+Vacuum Decay Analysis Results
+============================
+
+Decay Constant (λ): 1.253011
+Variance: 0.00001250
+95% Confidence Interval: (1.246081, 1.259941)
+Number of Data Points: 125585
+Fisher Information: 0.636928
+Negative Log-Likelihood: 153909.447184

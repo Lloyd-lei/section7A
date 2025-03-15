@@ -1,0 +1,39 @@
+Cavity Decay Analysis Results
+============================
+
+Exponential Only Model (Null Hypothesis):
+  Decay Constant (λ): 2.585429
+  Log-Likelihood: -19498.904241
+
+Mixture Model (Alternative Hypothesis):
+  Exponential Component:
+    Decay Constant (λ): 1.995202
+    95% CI: (1.942166, 2.048237)
+    Weight (α): 0.703386
+    95% CI: (0.690524, 0.716249)
+
+  Gaussian Component:
+    Mean (μ): 4.984970
+    95% CI: (4.959702, 5.010237)
+    Standard Deviation (σ): 0.509831
+    95% CI: (0.486563, 0.533098)
+
+  Log-Likelihood: -17774.523308
+
+Likelihood Ratio Test:
+  Test Statistic: 3448.761865
+  Degrees of Freedom: 3
+  p-value: 0.00000000
+  Conclusion: Null Hypothesis Rejected at 5% significance level
+
+Fisher Information Matrix:
+  [ 1566.04983204   204.25432012   516.4747563  -1799.1533241 ]
+  [  204.25432012  6183.9728005    678.08286985 -1314.401743  ]
+  [ 516.4747563   678.08286985 8664.78330863 5377.1873354 ]
+  [-1799.1533241  -1314.401743    5377.1873354  29855.25497934]
+
+Covariance Matrix:
+  [ 7.32209205e-04 -3.05878459e-06 -7.96013800e-05  5.83270077e-05]
+  [-3.05878459e-06  1.66198454e-04 -1.94210522e-05  1.06305892e-05]
+  [-7.96013800e-05 -1.94210522e-05  1.40934252e-04 -3.10354752e-05]
+  [ 5.83270077e-05  1.06305892e-05 -3.10354752e-05  4.30676496e-05]
