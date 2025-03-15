@@ -29,7 +29,6 @@ The project is organized into the following directories:
 - NumPy
 - SciPy
 - Matplotlib
-- PyPDF2 (for reading the PDF)
 
 ## How to Run
 
